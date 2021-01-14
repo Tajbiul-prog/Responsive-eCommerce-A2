@@ -1,0 +1,61 @@
+*{
+    box-sizing: border-box;
+}
+.header-img img{
+    width: 80%;
+}
+.header-tab a{
+    font-size: 20px;
+    font-weight: 400;
+}
+.front-info{
+    font-size: 50px;
+    font-weight: 700;
+}
+.font-description{
+    font-size: 21px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.font-desc{
+    font-size: 18px;
+    font-weight: 400;
+}
+.button-design{
+    border-radius: 10px;
+    background-image: linear-gradient(180deg,#4153f0,#3a59c0);
+    padding: 15px 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.orange-color{
+    color: #FA804C;
+    font-weight: 700;
+}
+.navy-blue{
+    color: #363958;
+    font-weight: 700;
+}
+.bg-white-cart{
+    width: 26rem;
+    background-color: white;
+    box-shadow: 5px 5px 30px #afafaf;
+    border-radius: 20px;
+    padding: 15px 15px;
+}
+.bg-white-cart img{
+    background-color: #F1F1F1;
+    border-radius: 20px;
+}
+.img-size img{
+    width: 80%;   
+}
+.bg-cont{
+    background-color: white;
+    box-shadow: 3px 3px 200px #d3d3d3;
+    border-radius: 20px;
+    padding: 15px 15px;
+    border: none;
+}
+
+/* I need 1 day more to understand flex,grid properly :p  */
